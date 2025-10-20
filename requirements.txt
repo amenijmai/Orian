@@ -1,0 +1,7 @@
+python-dotenv
+openai
+flask
+requests
+beautifulsoup4
+python-dateutil
+ratelimit
