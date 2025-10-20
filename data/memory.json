@@ -1,0 +1,52 @@
+{
+  "alice@acme.com": {
+    "interactions": [
+      {
+        "id": "m1",
+        "subject": "Quick call about the proposal",
+        "summary": "Hi, can we schedule a call next week to discuss the proposal?",
+        "intent": "schedule",
+        "date": "2025-10-20T22:59:08.185276"
+      },
+      {
+        "id": "m1",
+        "subject": "Quick call about the proposal",
+        "summary": "Hi, can we schedule a call next week to discuss the proposal?",
+        "intent": "schedule",
+        "date": "2025-10-20T22:59:37.300815"
+      },
+      {
+        "id": "m1",
+        "subject": "Quick call about the proposal",
+        "summary": "Hi, can we schedule a call next week to discuss the proposal?",
+        "intent": "schedule",
+        "date": "2025-10-20T23:07:33.283501"
+      }
+    ]
+  },
+  "billing@vendor.com": {
+    "interactions": [
+      {
+        "id": "m2",
+        "subject": "Invoice #12345",
+        "summary": "Attached invoice for September.",
+        "intent": "billing",
+        "date": "2025-10-20T22:59:08.185293"
+      },
+      {
+        "id": "m2",
+        "subject": "Invoice #12345",
+        "summary": "Attached invoice for September.",
+        "intent": "billing",
+        "date": "2025-10-20T22:59:37.300837"
+      },
+      {
+        "id": "m2",
+        "subject": "Invoice #12345",
+        "summary": "Attached invoice for September.",
+        "intent": "billing",
+        "date": "2025-10-20T23:07:33.283517"
+      }
+    ]
+  }
+}
