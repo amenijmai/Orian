@@ -63,10 +63,6 @@ python main.py --mode=preview
 - Adapters (`email_client.py`, `calendar_client.py`, `crm_client.py`) are stubs and should be connected to real APIs for production use.
 - Memory is file-based (`memory.py`) for simplicity; you may replace it with a database or other storage.
 
-## License
-
-Specify your license here (e.g., MIT, Apache 2.0).
-
 ## Contributing
 
 Feel free to fork the project, adapt the adapters, and submit pull requests to improve functionality.
